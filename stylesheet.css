@@ -112,7 +112,9 @@ ul.icons li i:hover {
 }
 
 #portHeader {
-    visibility: hidden;
+    background-color: none;
+    text-align: center;
+    color: wheat;
 }
 
 #portFooter {
