@@ -31,10 +31,14 @@ body #portText {
     text-align: center;
 }
 
-
-body #portText .section-title {
+body .clearfix #portText .portSection {
     font-family: serif;
-    font-size: 40px;
+    text-align: left;
+}
+
+body .clearfix #portText .portSection .section-title {
+    font-family: serif;
+    font-size: 42px;
     color: yellowgreen;
     text-align: left;
 }
