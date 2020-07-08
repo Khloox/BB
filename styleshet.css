@@ -8,7 +8,7 @@ body {
     width: 100%;
 }
 
-.page-title {
+body .page-title {
     font-family: serif;
     font-size: 32px;
     color: yellowgreen;
