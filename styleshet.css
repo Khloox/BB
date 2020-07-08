@@ -7,3 +7,10 @@ body {
     height: 100%;
     width: 100%;
 }
+
+.page-title {
+    font-family: serif;
+    font-size: 32px;
+    color: yellowgreen;
+    text-align: center;
+}
