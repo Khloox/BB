@@ -10,7 +10,14 @@ body {
 
 body .page-title {
     font-family: serif;
-    font-size: 32px;
-    color: yellowgreen;
+    font-size: 52px;
+    color: gold;
     text-align: center;
+}
+
+body .page-title .viewHeading {
+    font-family: serif;
+    font-size: 40px;
+    color: yellowgreen;
+    text-align: left;
 }
