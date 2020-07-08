@@ -22,8 +22,9 @@ body .page-title .viewHeading {
     text-align: left;
 }
 
+//.clearfix & .portSection
 
-body .clearfix #portText {
+body #portText {
     font-family: serif;
     font-size: 48px;
     color: gold;
@@ -31,7 +32,7 @@ body .clearfix #portText {
 }
 
 
-body .clearfix #portText .portSection .section-title {
+body #portText .section-title {
     font-family: serif;
     font-size: 40px;
     color: yellowgreen;
