@@ -10,12 +10,28 @@ body {
 
 body .page-title {
     font-family: serif;
-    font-size: 52px;
+    font-size: 48px;
     color: gold;
     text-align: center;
 }
 
 body .page-title .viewHeading {
+    font-family: serif;
+    font-size: 40px;
+    color: yellowgreen;
+    text-align: left;
+}
+
+
+body .clearfix #portText {
+    font-family: serif;
+    font-size: 48px;
+    color: gold;
+    text-align: center;
+}
+
+
+body .clearfix #portText .portSection .section-title {
     font-family: serif;
     font-size: 40px;
     color: yellowgreen;
