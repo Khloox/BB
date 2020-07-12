@@ -115,6 +115,11 @@ ul.icons li i:hover {
     background-color: none;
 }
 
+#portHeader h1 {
+    color: yellowgreen;
+    font-style: italic;
+}
+
 #portFooter {
     visibility: hidden;
 }
