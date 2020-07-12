@@ -48,6 +48,6 @@ body .clearfix #portText .portSection .section-title {
 #portHeader h1 {
     color: #A6F30D;
     font-style: italic;
-    font-weight: 600;
-    font-size: 44px;
+    font-size: 36px;
+    text-align: center;
 }
