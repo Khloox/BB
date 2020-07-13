@@ -56,4 +56,6 @@ body .clearfix #portText .portSection .section-title {
     font-style: italic;
     font-size: 36px;
     text-align: center;
+    text-stroke: 3px black;
+    -webkit-text-stroke: 3px black;
 }
