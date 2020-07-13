@@ -45,6 +45,12 @@ body .clearfix #portText .portSection .section-title {
     margin-bottom: 17px;
 }
 
+#portHeader {
+    background-color: none;
+    background-image: url("https://img.techpowerup.org/200713/voer62d.jpg");
+    background-size: cover;
+}
+
 #portHeader h1 {
     color: #A6F30D;
     font-style: italic;
