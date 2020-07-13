@@ -52,10 +52,10 @@ body .clearfix #portText .portSection .section-title {
 }
 
 #portHeader h1 {
-    color: #FF0055;
+    color: white;
     font-style: italic;
     font-size: 36px;
-    text-align: center;
-    text-stroke: 3px black;
-    -webkit-text-stroke: 3px black;
+    text-align: left;
+    text-indent: 10px; 
+    text-stroke: 1.5px black;
 }
