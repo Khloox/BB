@@ -113,6 +113,8 @@ ul.icons li i:hover {
 
 #portHeader {
     background-color: none;
+    background-image: url("https://ibb.co/wwybYrH");
+    background-size: cover;
 }
 
 #portHeader h1 {
