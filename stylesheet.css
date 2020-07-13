@@ -118,11 +118,12 @@ ul.icons li i:hover {
 }
 
 #portHeader h1 {
-    color: #80FF00;
+    color: white;
     font-style: italic;
     font-size: 36px;
-    text-align: center;
-    text-stroke: 1.5px white;
+    text-align: left;
+    text-indent: 10px; 
+    text-stroke: 1.5px black;
 }
 
 #portFooter {
